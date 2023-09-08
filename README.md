@@ -7,7 +7,7 @@ da Data Science Academy, bem como as utilizar habilidades de análise de dados q
 Para alcançar esse objetivo, os alunos foram desafiados a responder a 10 perguntas de negócios com base em um conjunto de dados fornecido. 
 O projeto visava aprimorar as habilidades práticas dos alunos, permitindo que eles aplicassem seus conhecimentos de Python e análise de dados em um contexto real.
 
-### Seguem abaixo as perguntas:
+##### Seguem abaixo as perguntas:
 
 # • Pergunta de Negócio 1:
 Qual Cidade com Maior Valor de Venda de Produtos da Categoria 'Office Supplies'?
