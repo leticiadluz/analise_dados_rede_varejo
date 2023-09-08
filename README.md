@@ -1,8 +1,8 @@
 # Análise de dados de uma rede de Varejo
 
 O objetivo principal deste projeto era analisar os dados de uma rede de varejo que opera em várias cidades dos Estados Unidos. 
-Já objetivos secundários eram- aplicar os conceitos e técnicas de Python aprendidos durante o curso "Fundamentos de Linguagem Python para Análise de Dados e Data Science" 
-da Data Science Academy, bem como as utilizar habilidades de análise de dados que os alunos adquiriram ao longo do curso.
+Já objetivos secundários eram- aplicar os conceitos e técnicas de Python aprendidos durante o curso **"Fundamentos de Linguagem Python para Análise de Dados e Data Science" 
+da Data Science Academy**, bem como as utilizar habilidades de análise de dados que os alunos adquiriram ao longo do curso.
 
 Para alcançar esse objetivo, os alunos foram desafiados a responder a 10 perguntas de negócios com base em um conjunto de dados fornecido. 
 O projeto visava aprimorar as habilidades práticas dos alunos, permitindo que eles aplicassem seus conhecimentos de Python e análise de dados em um contexto real.
@@ -48,4 +48,10 @@ Demonstre o resultado através de gráfico de linha.
 Qual o Total de Vendas Por Categoria e SubCategoria, Considerando Somente as Top 12 SubCategorias?
 Demonstre tudo através de um único gráfico
 
+### DataSet
 
+* Clique [aqui](https://github.com/leticiadluz/analise_dados_rede_varejo/blob/main/dataset.csv)
+
+### Arquivo com o desafio completo
+
+* Clique [aqui](https://github.com/leticiadluz/analise_dados_rede_varejo/blob/main/1-IntroCap13.pdf)
